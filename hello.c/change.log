@@ -1,0 +1,6 @@
+int main (int argc, char**argc){
+
+	printf("Judy Truong/n");
+	printf("Math/n");
+	return 0;
+	}
