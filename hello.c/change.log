@@ -1,6 +1,9 @@
-int main (int argc, char**argc){
 
-	printf("Judy Truong/n");
-	printf("Mathematics/n");
-	return 0;
-	}
+int main(int argc, char**argv) {
+
+printf("Sebastian Alegrett\n");
+printf("Computer Science\n");
+printf("Judy Truong\n");
+printf("Math\n");
+return 0;
+}
